@@ -1,2 +1,1 @@
-# winCredential
-get windows  Credential
+此脚本用于简化使用mimikatz获取Windows 保存凭据的操作
