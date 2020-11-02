@@ -1,4 +1,4 @@
-此脚本用于简化使用mimikatz获取Windows 保存凭据的操作
+利用mimikatz 批量提取远程桌面保存密码
 
 需使用管理员权限运行winCredential.bat
 
