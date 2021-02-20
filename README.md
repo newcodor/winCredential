@@ -1,6 +1,6 @@
 利用mimikatz 批量提取远程桌面保存密码
 
-需使用管理员权限运行winCredential.bat
+默认获取当前用户凭据,也可以指定其他用户,需使用管理员权限运行
 
 ### English version:
 
